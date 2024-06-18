@@ -16,7 +16,7 @@ import sounddevice as sd
 import time
 
 import numpy as np
-headers = {"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiN2Q0NWI2OGItODQyZi00OTgzLTg3ZmMtYTVmMmEzOTEzZDBkIiwidHlwZSI6ImFwaV90b2tlbiJ9.L93GDqn-KvgdtUho4emsiXhp3u8vCvUKgv6-NiCwAQo"}
+headers = {"Authorization": "Bearer APIKEY"}
 async def save_audio(audio_bytes, filename):
     with open(filename, 'wb') as f:
         f.write(audio_bytes)
