@@ -1,0 +1,7 @@
+numpy==1.26.4
+PyAudio==0.2.14
+pygame==2.5.2
+Requests==2.31.0
+rhasspy_silence==0.4.0
+sounddevice==0.4.6
+soundfile==0.12.1
