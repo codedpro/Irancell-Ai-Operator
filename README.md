@@ -1,5 +1,8 @@
 # Irancell-Ai-Operator
 
+## Note
+#The final version of this project will not be published online and will be used exclusively offline within MTN Irancell's network. Customized machine learning models have been #developed specifically for this project, ensuring optimal performance and security. Consequently, the project will not be open source to maintain confidentiality and safeguard #sensitive information.
+
 ## Overview
 Irancell-Ai-Operator is an AI-powered customer service tool designed to revolutionize the way MTN Irancell interacts with its customers. This project integrates advanced speech-to-text, text generation, and text-to-speech technologies to provide seamless, real-time support across multiple channels. Whether through the Irancell.ir website, call center interactions, or live recommendations for human operators, Irancell-Ai-Operator ensures efficient and personalized customer service.
 
