@@ -28,7 +28,7 @@ Irancell-Ai-Operator is an AI-powered customer service tool designed to revoluti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/irancell-ai-operator.git
+   git clone https://github.com/codedpro/irancell-ai-operator.git
    cd irancell-ai-operator
    ```
 
